@@ -19,7 +19,5 @@ function toWeirdCase(s) {
   return change;  
 }
 
-console.log(toWeirdCase('hello world')); 
-
 console.log(toWeirdCase('hello world'));    // 'HeLlO WoRlD'
 console.log(toWeirdCase('my name is lee')); // 'My NaMe Is LeE'
