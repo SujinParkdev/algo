@@ -7,15 +7,15 @@
 ---
 1. 알고리즘 문제 풀이를 위한 문제 풀이(PS)
 
-    [180605_02evenOrOdd](https://github.com/SujinParkdev/algorithm_study/blob/master/01_PS/180605_02evenOrOdd.js)
-    [180606_03string](https://github.com/SujinParkdev/algorithm_study/blob/master/01_PS/180606_03string.js)
-    [180606_04countPY.](https://github.com/SujinParkdev/algorithm_study/blob/master/01_PS/180606_04countPY.js)
-    [180606_05toWeirdCase](https://github.com/SujinParkdev/algorithm_study/blob/master/01_PS/180606_05toWeirdCase.js)
-    [180606_06hideNumbers](https://github.com/SujinParkdev/algorithm_study/blob/master/01_PS/180606_06hideNumbers.js)
-    [180607_strToInt](https://github.com/SujinParkdev/algorithm_study/blob/master/01_PS/180607_strToInt.js)
-    [180607_08_waterMelon](https://github.com/SujinParkdev/algorithm_study/blob/master/01_PS/180607_08_waterMelon.js)
-    [180607_09_nextSqaure](https://github.com/SujinParkdev/algorithm_study/blob/master/01_PS/180607_09_nextSqaure.js)
-    [180607_10_checkPalindrom](https://github.com/SujinParkdev/algorithm_study/blob/master/01_PS/180607_10_checkPalindrom.js)
+    [180605_02evenOrOdd](https://github.com/SujinParkdev/algorithm_study/blob/master/01_PS/180605_02evenOrOdd.js)<hr>
+    [180606_03string](https://github.com/SujinParkdev/algorithm_study/blob/master/01_PS/180606_03string.js)<hr>
+    [180606_04countPY.](https://github.com/SujinParkdev/algorithm_study/blob/master/01_PS/180606_04countPY.js)<hr>
+    [180606_05toWeirdCase](https://github.com/SujinParkdev/algorithm_study/blob/master/01_PS/180606_05toWeirdCase.js)<hr>
+    [180606_06hideNumbers](https://github.com/SujinParkdev/algorithm_study/blob/master/01_PS/180606_06hideNumbers.js)<hr>
+    [180607_strToInt](https://github.com/SujinParkdev/algorithm_study/blob/master/01_PS/180607_strToInt.js)<hr>
+    [180607_08_waterMelon](https://github.com/SujinParkdev/algorithm_study/blob/master/01_PS/180607_08_waterMelon.js)<hr>
+    [180607_09_nextSqaure](https://github.com/SujinParkdev/algorithm_study/blob/master/01_PS/180607_09_nextSqaure.js)<hr>
+    [180607_10_checkPalindrom](https://github.com/SujinParkdev/algorithm_study/blob/master/01_PS/180607_10_checkPalindrom.js)<hr>
 
 
 2. 백준 Algorithm 문제 풀이
