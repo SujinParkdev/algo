@@ -10,7 +10,7 @@ function toWeirdCase(s) {
 
   var change = '';
   for (i=0; i<s.length; i++){
-    if ((i%2===0)){
+    if (i%2===0){
       change = s.replace(s[i], s[i].toUpperCase());
     } else {
       change = s.replace(s[i], s[i].toLowerCase());
