@@ -14,3 +14,5 @@ function hideNumbers(str) {
 
 console.log(hideNumbers('01033334444')); // *******4444
 console.log(hideNumbers('027778888'));   // *****8888
+
+// stars를 전역변수로 안쓰고 싶음
