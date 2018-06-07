@@ -7,17 +7,17 @@
 ---
 1. 알고리즘 문제 풀이를 위한 문제 풀이(PS)
 
-    [180605_02evenOrOdd](https://github.com/SujinParkdev/algorithm_study/blob/master/01_PS/180605_02evenOrOdd.js)
+    [180605_02_evenOrOdd](https://github.com/SujinParkdev/algorithm_study/blob/master/01_PS/180605_02_evenOrOdd.js)
 
-    [180606_03string](https://github.com/SujinParkdev/algorithm_study/blob/master/01_PS/180606_03string.js)
+    [180606_03_string](https://github.com/SujinParkdev/algorithm_study/blob/master/01_PS/180606_03_string.js)
 
-    [180606_04countPY.](https://github.com/SujinParkdev/algorithm_study/blob/master/01_PS/180606_04countPY.js)
+    [180606_04_countPY.](https://github.com/SujinParkdev/algorithm_study/blob/master/01_PS/180606_04_countPY.js)
 
-    [180606_05toWeirdCase](https://github.com/SujinParkdev/algorithm_study/blob/master/01_PS/180606_05toWeirdCase.js)
+    [180606_05_toWeirdCase](https://github.com/SujinParkdev/algorithm_study/blob/master/01_PS/180606_05_toWeirdCase.js)
 
-    [180606_06hideNumbers](https://github.com/SujinParkdev/algorithm_study/blob/master/01_PS/180606_06hideNumbers.js)
+    [180606_06_hideNumbers](https://github.com/SujinParkdev/algorithm_study/blob/master/01_PS/180606_06_hideNumbers.js)
 
-    [180607_07_strToInt](https://github.com/SujinParkdev/algorithm_study/blob/master/01_PS/180607_strToInt.js)
+    [180607_07_strToInt](https://github.com/SujinParkdev/algorithm_study/blob/master/01_PS/180607_07_strToInt.js)
 
     [180607_08_waterMelon](https://github.com/SujinParkdev/algorithm_study/blob/master/01_PS/180607_08_waterMelon.js)
 
