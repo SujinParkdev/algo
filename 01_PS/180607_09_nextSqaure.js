@@ -20,6 +20,11 @@ if (n===undefined) {
 };
 };
 
+// function nextSqaure(n){
+//   var root = Math.sqrt(n);
+//   return Number.isInteger(root) ? Math.pow(root +1, 2) : 'no';
+}
+
 console.log(nextSqaure());    // no
 console.log(nextSqaure(0));   // 1
 console.log(nextSqaure(1));   // 4
